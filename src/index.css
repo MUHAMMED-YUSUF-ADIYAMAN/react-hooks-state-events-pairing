@@ -10,3 +10,14 @@ body {
 .App {
   text-align: center;
 }
+.Hide{
+display: block;
+}
+
+.Show{
+  display: none;
+
+}
+.comment{
+  margin-top: 20px;
+}
